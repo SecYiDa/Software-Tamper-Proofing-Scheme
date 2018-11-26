@@ -4,8 +4,9 @@
 
 0x02 `基本流程`
 
-![](/Users/bobpen/Desktop/scheme/11.jpg)
-![](/Users/bobpen/Desktop/scheme/p4.jpg)
+![](https://github.com/SecYiDa/Software-Tamper-Proofing-Scheme/blob/master/11.jpg?raw=true)
+
+![](https://github.com/SecYiDa/Software-Tamper-Proofing-Scheme/blob/master/p4.jpg?raw=true)
 
 
 0x03 `demo`
